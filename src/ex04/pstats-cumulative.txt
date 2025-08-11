@@ -1,0 +1,15 @@
+Sat Jun 21 16:33:04 2025    profiling-cumulative.stats
+
+         41885 function calls (41068 primitive calls) in 5.773 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1025 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      2/1    0.000    0.000    5.773    5.773 {built-in method builtins.exec}
+        1    0.000    0.000    5.773    5.773 <string>:1(<module>)
+        1    0.000    0.000    5.773    5.773 /home/sevinch/school21 projects/DS_Bootcamp.Day03.ID_886513-1/src/ex04/financial.py:7(main)
+        1    5.000    5.000    5.000    5.000 {built-in method time.sleep}
+        1    0.000    0.000    0.771    0.771 /home/sevinch/school21 projects/DS_Bootcamp.Day03.ID_886513-1/src/ex04/lomasdar/lib/python3.12/site-packages/yfinance/ticker.py:224(financials)
+
+
